@@ -3,7 +3,7 @@
 This is part of Harvard's free online course, CS50x. 
 
 This project is called "cash". 
-We are to code in C language the minumum number of coins needed for a change. 
+We are to code in C language the minimum number of coins needed for a change. 
 
 The pseudocode goven by CS50x to help with coding:
 1. Prompt the user for change owed, in cents.
