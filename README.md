@@ -13,3 +13,5 @@ The pseudocode goven by CS50x to help with coding:
 5. Calculate how many pennies you should give customer. Subtract the value of those pennies from remaining cents.
 6. Sum the number of quarters, dimes, nickels, and pennies used.
 7. Print that sum.
+
+Week 6 in Python, same problem set.
